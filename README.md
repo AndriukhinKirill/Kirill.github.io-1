@@ -1,4 +1,4 @@
 kirill.github.io
 ================
 
-GithubPages
+GitHub Pages
